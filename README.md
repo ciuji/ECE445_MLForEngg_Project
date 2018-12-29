@@ -10,6 +10,6 @@
 
   - Regression problem. Using the dataset of [air quality](http://archive.ics.uci.edu/ml/datasets/air+quality)
 
-  - Cluster problem. Using the dataset of [Black Friday](https://www.kaggle.com/mehdidag/black-friday)
+  - Clustering problem. Using the dataset of [Black Friday](https://www.kaggle.com/mehdidag/black-friday)
 
   - Classification problem. Using the dataset of [blood-cells](https://github.com/Shenggan/BCCD_Dataset)
